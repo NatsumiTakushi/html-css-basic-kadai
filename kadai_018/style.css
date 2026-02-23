@@ -21,6 +21,7 @@ p {
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #ffd9df;
+    position: relative;
 }
 
 #middle-child01,
@@ -33,18 +34,18 @@ p {
 }
 
 #middle-child01 {
-    margin-top: 100px;
-    margin-left: 100px;
+    top: 100px;
+    left: 100px;
 }
 
 #middle-child02 {
-    margin-top: 300px;
-    margin-left: 300px;
+    top: 300px;
+    left: 300px;
 }
 
 #middle-child03 {
-    margin-top: 500px;
-    margin-left: 500px;
+    top: 500px;
+    left: 500px;
 }
 
 #bottom {
